@@ -8,4 +8,4 @@ deploy:
   api_key: 32bc4afc-69fc-4722-a1c8-936d5d732f71
   app: django_sample_web_app
   run: python manage.py migrate
-  on: master
+
